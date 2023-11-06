@@ -53,6 +53,10 @@ Para usar o modelo com suas próprias imagens de raios-X:
 
 Sinta-se livre para clonar, modificar e usar este código em seus próprios projetos de reconhecimento de imagem médica.
 
+## Licença MIT
+
+Esse projeto está sob a licença MIT. Isso significa que você pode reutilizar e modificar o código, desde que inclua um aviso de direitos autorais original e não utilize o código para fins comerciais sem permissão. Para mais informações, consulte o arquivo `LICENSE` incluso neste repositório.
+
 ---
 
 *Nota: É essencial que você tenha permissão e respeite as regulamentações de privacidade e ética ao usar e compartilhar dados médicos.*
